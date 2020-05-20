@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/markhazleton/Space%20Game%20Web/_apis/build/status/markhazleton.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/markhazleton/Space%20Game%20Web/_build/latest?definitionId=11&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=markhazleton_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=markhazleton_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
